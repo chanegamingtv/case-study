@@ -1,0 +1,38 @@
+h3{
+    color: red;
+}
+h5{
+   padding-top: 8px;
+   padding-bottom: 8px;
+    background-color: gold;
+    font-size: 20px;
+    border-radius: 30px;
+    margin-top: 40px;
+}
+h4{
+color: aliceblue;
+
+}
+#yes{
+    margin-top: 50px;
+    width: 200px;
+    height: 300px;
+    border-radius: 30px;
+}
+#mobile{
+    float: left;
+}
+#test{
+    float: left;
+    margin-top: 30px;
+    color: aliceblue;
+}
+.text_image_and_result{
+    background-color: rgb(247, 9, 9);
+    height: 600px;
+border-radius: 30px;
+width: 100%;
+}
+.li{
+    color: aliceblue;
+}
